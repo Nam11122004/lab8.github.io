@@ -1,0 +1,84 @@
+    #khung{
+        background-color: #f4f7fc;
+    }
+    .box{
+        background-color: #f4f7fc;
+    }
+    .boder{
+        border: 1px solid #edeef0;
+        background-color: #ffffff;
+        text-align: center;
+    }
+
+    .box img{
+        width: 100%;
+    }
+    button{
+        text-align: center;
+        background-color: #4ec67e;
+        color: white;
+        margin-bottom: 10px;
+        width: 50%;
+        border: none;
+        height: 40px;
+        font-weight: bold;
+        font: 1000;
+    }
+
+    .new{
+        height: 25px;
+        position: relative;
+        width: 50%;
+        top: -45px;
+    }
+
+    .new p{
+        text-align: left;
+    }
+    .new2{
+        background-color: #4ec67e;
+        height: 25px;
+        color: white;
+        margin-left: 12px;
+        font-weight: bold;
+    }
+    .sale{
+        background-color: #ea5e56;
+        color: white;
+        height: 25px;
+        font-weight: bold;
+    }
+    .carousel-control-prev{
+        margin-top: 25%;
+    }
+    .carousel-control-next{
+        margin-top: 25%;
+    }
+    .anh{
+        background: url('anh2.jpg') no-repeat;
+        background-size: 100%;
+        padding: 5%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        color:#fff;
+    }
+    .anh h2{
+        font-size: 50px;
+        text-align: center;
+        color: #fff;
+    }
+    .anh p{
+        text-align: center;
+        color: #fff;
+        font-size: 20px;
+
+    }
+    .chu{
+        margin-top: 2%;
+        text-align: center;
+        font-size: 300%;
+        color: #817c7c;
+        margin-bottom: 2%;
+    }
